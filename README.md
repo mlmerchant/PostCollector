@@ -33,5 +33,8 @@ The script in this repository is designed to streamline the process of convertin
 ```
 The script will then download and format the contents of the reddit post into a word document.  Lines that exceed the line length limits of the Text2VideoNarrator and require manual intervention will be colored blue. Ensure that you manually split those lines at a natural place before cutting and pasted the contents of the word document into new text file for the Text2VideoNarrator script.
 
+## Contributing
+I am not actively working on this project anymore, so feel free to free to fork it and use it as you see fit.
+
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
